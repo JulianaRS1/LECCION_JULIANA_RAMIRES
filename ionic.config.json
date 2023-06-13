@@ -1,0 +1,7 @@
+{
+  "name": "leccion_juliana",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
